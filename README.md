@@ -1,4 +1,4 @@
-- - 👋 Hi, I’m AMjAD TABASSUM (@amjadtbssm) from Pakistan :pakistan:
+- 👋 Hi, I’m AMjAD TABASSUM (@amjadtbssm) from Pakistan :pakistan:
 - 👀 I’m interested in Programming, Web Development and Graphic Design
 - 🌱 I’m currently learning :atom: React & React Native
 - 💞️ I’m looking to collaborate on Object Pascal, PHP, HTML5, CSS and JavaScript
